@@ -1,0 +1,15 @@
+Javascript
+
+1. callback
+2. closure
+3. hoisting
+4. Temporal Dead Zone
+5. Type Coersion
+6. IIFE (Immediately Invoke Function Execution)
+7. Promise and Promise Types
+-------------------------------------------------------------------
+8. Throattling
+9. Debouncing
+10. Shallow Copy & Deep Copy
+11. Object.freeze & Object.Seal
+12. Strict Mode
