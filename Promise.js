@@ -66,9 +66,8 @@ Promise.race([promise, promise1, promise2, promise3, promise4])
         console.log("Promise Race Rejected")
         console.log(err)
     })
-
-
-
-
-
 // promise.then((data) => console.log(data)).catch((err) => console.log(err));
+
+// Use Case of Promise
+// To handle the asynchronous operation in a more cleaner, more readable and more maintainable way  
+// - especially to avoid callbackhell

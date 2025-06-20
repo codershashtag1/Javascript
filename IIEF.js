@@ -5,4 +5,12 @@
     console.log(a)
 })() // Common in self-executing logic or scripts
 
-console.log(a);  
+console.log(a); 
+
+
+// IIFE
+// Immediately Invoked Function Expression
+// It’s a function that runs immediately after it’s defined.
+
+// Use Cases
+// To create a private scope or run setup logic without polluting the global scope.
